@@ -1136,7 +1136,7 @@ body::-webkit-scrollbar {
     }
 
     .popup-card p {
-        font-size: 0.9em;
+        font-weight:600;
     }
 }
 
@@ -1151,7 +1151,7 @@ body::-webkit-scrollbar {
     }
 
     .popup-card p {
-        font-size: 0.85em;
+        font-size: 600;
     }
 }
 
