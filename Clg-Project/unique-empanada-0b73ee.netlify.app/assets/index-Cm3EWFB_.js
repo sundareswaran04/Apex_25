@@ -36,11 +36,11 @@ function BPO()
 }
 function MPO()
 {
-    document.getElementById("popup-mime").style.display = "flex"
+    document.getElementById("popup-mime-event").style.display = "flex"
 }
 function DPO()
 {
-    document.getElementById("popup-dance").style.display = "flex"
+    document.getElementById("popup-dance-event").style.display = "flex"
 }
 function RPO()
 {
@@ -7224,7 +7224,7 @@ ec(), eu.exports = we;
 var _f = eu.exports,
     tc, Bs = _f;
 tc = Bs.createRoot, Bs.hydrateRoot;
-const Pf = "./unique-empanada-0b73ee.netlify.app/assets/lakshya_event-vmake-BbBHjKbA.mp4",
+const Pf = "./assets/lakshya_event-vmake-BbBHjKbA.mp4",
     Tf = () => s.jsxs("div", {
         className: "relative mt-20",
         children: [s.jsx("section", {
@@ -7341,18 +7341,18 @@ const Pf = "./unique-empanada-0b73ee.netlify.app/assets/lakshya_event-vmake-BbBH
 ]
     }),
     
-    Ff = "./unique-empanada-0b73ee.netlify.app/assets/hackathon-DPuyM7Mt.jpg",
-    Lf = "./unique-empanada-0b73ee.netlify.app/assets/manager-CVFPV4Fx.webp",
-    Rf = "./unique-empanada-0b73ee.netlify.app/assets/businessProposal-Bi0Ptfds.webp",
-    Of = "./unique-empanada-0b73ee.netlify.app/assets/corporatewalk-CkS4lJIr.webp",
-    Df = "./unique-empanada-0b73ee.netlify.app/assets/dance-DW4N26Vw.jpg",
-    Mf = "./unique-empanada-0b73ee.netlify.app/assets/singing-DlHml3zV.jpg",
-    If = "./unique-empanada-0b73ee.netlify.app/assets/mime-eDwb2nmS.webp",
-    $f = "./unique-empanada-0b73ee.netlify.app/assets/rangoli-D9R655GY.jpg",
-    Uf = "./unique-empanada-0b73ee.netlify.app/assets/photography-B4eJvG9o.jpg",
-    Af = "./unique-empanada-0b73ee.netlify.app/assets/shortfilm-COMP0q7I.jpg",
-    Vf = "./unique-empanada-0b73ee.netlify.app/assets/tressure-DIV2HAM0.png",
-    Bf = "./unique-empanada-0b73ee.netlify.app/assets/auction-0VQ__RFI.jpg",
+    Ff = "./assets/hackathon-DPuyM7Mt.jpg",
+    Lf = "./assets/manager-CVFPV4Fx.webp",
+    Rf = "./assets/businessProposal-Bi0Ptfds.webp",
+    Of = "./assets/corporatewalk-CkS4lJIr.webp",
+    Df = "./assets/dance-DW4N26Vw.jpg",
+    Mf = "./assets/singing-DlHml3zV.jpg",
+    If = "./assets/mime-eDwb2nmS.webp",
+    $f = "./assets/rangoli-D9R655GY.jpg",
+    Uf = "./assets/photography-B4eJvG9o.jpg",
+    Af = "./assets/shortfilm-COMP0q7I.jpg",
+    Vf = "./assets/tressure-DIV2HAM0.png",
+    Bf = "./assets/auction-0VQ__RFI.jpg",
     Hf = () => {
         const [e, t] = q.useState(!1), n = () => {
             t(!e)
@@ -7762,7 +7762,7 @@ s.jsxs("div", {
 
 
     },
-    Wf = "./unique-empanada-0b73ee.netlify.app/assets/clgLoho-BEadKlnH.png",
+    Wf = "./assets/clgLoho-BEadKlnH.png",
     Qf = () => s.jsxs("div", {
         className: " my-20 oex-1 md:px-10 py-5 relative z-[1]",
         children: [s.jsx("img", {
@@ -7827,7 +7827,7 @@ s.jsxs("div", {
             })
         })]
     }),
-    Gf = "./unique-empanada-0b73ee.netlify.app/assets/clgimg-Btf5OOD2.jpeg",
+    Gf = "./assets/clgimg-Btf5OOD2.jpeg",
     Kf = () => s.jsxs("div", {
         className: "my-20 px-1 md:px-10 py-5 relative ",
         children: [s.jsx("h4", {
@@ -7868,7 +7868,7 @@ function Yf() {
     children: [s.jsx("div", {
     className: "logo-container", 
     children: s.jsx("img", {
-        src: "./unique-empanada-0b73ee.netlify.app/assets/logo bg.jpg", 
+        src: "./assets/logo bg.jpg", 
         alt: "Logo",
         className: "w-auto h-16 md:w-30 md:h-20 rounded-lg border-2 border-black"
     })
@@ -7963,9 +7963,9 @@ function Yf() {
                     className: "text-3xl font-bold mb-5",
                     children: "Make a Payment"
                 }), s.jsx("img", {
-                    src: "./unique-empanada-0b73ee.netlify.app/assets/QRcode.jpg",
+                    src: "./assets/QRcode.jpg",
                     alt: "QR Code",
-                    className: "mx-auto   mb-5 w-10 h-10"
+                    className: "mx-auto   mb-5 w-10 h-10 qr-image"
                 })]
               
             })
