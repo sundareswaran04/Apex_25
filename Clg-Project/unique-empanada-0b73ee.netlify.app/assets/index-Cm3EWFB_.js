@@ -7885,7 +7885,7 @@ s.jsxs("div", {
     ]
 }),
 s.jsx("a", {
-    href: "https://wa.me/9994931243",
+    href: "https://wa.me/+91 9994931243",
     target: "_blank",
     rel: "noopener noreferrer",
     className: "whatsapp-pill-button flex items-center justify-center gap-3 rounded-full bg-green-500 text-white px-6 py-3 shadow-lg hover:bg-green-600 hover:scale-105 transition-all",
