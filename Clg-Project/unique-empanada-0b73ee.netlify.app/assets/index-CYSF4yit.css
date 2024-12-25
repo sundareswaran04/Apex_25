@@ -1136,7 +1136,7 @@ body::-webkit-scrollbar {
     }
 
     .popup-card p {
-        font-weight:600;
+        font-size: 0.9em;
     }
 }
 
@@ -1151,7 +1151,7 @@ body::-webkit-scrollbar {
     }
 
     .popup-card p {
-        font-size: 600;
+        font-size: 0.85em;
     }
 }
 
@@ -1186,6 +1186,96 @@ body::-webkit-scrollbar {
         font-size: 11px;
         padding: 8px 12px;
     }
+}
+.follow-us-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+.call-us-section {
+    margin-bottom: 24px;
+    margin-top:24px; /* Adds space below the section */
+}
+
+.call-us-title {
+    font-size: 30px; /* Slightly larger font for the title */
+    font-weight: 600; /* Semi-bold for emphasis */
+    color: #000000; /* Dark gray for readability */
+    margin-bottom: 16px; /* Space below the title */
+}
+
+.call-us-numbers {
+    font-weight:bolder;
+    font-size: 25px; /* Regular font size for numbers */
+    line-height: 1.5; /* Adequate spacing between lines */
+    color: #000000; /* Medium gray for numbers */
+    white-space: nowrap; /* Prevents wrapping */
+    text-align: center; /* Center alignment */
+    /* display:flex; */
+    align-items:center;
+}
+
+.whatsapp-pill-button {
+    display: inline-flex;
+    align-items: center;
+    align-self:center;
+    justify-content: center;
+    text-decoration: none; /* Removes underline */
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px; /* Slightly larger font for better visibility */
+    font-weight: 500; /* Medium font weight */
+    width: 260px; /* Adjusted width for a pill-shaped appearance */
+    height: 60px; /* Ensure proper vertical alignment */
+    background-color: #25D366; /* WhatsApp green color */
+    border-radius: 30px; /* Full-rounded edges for pill shape */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* Adds depth */
+    transition: all 0.3s ease-in-out; /* Smooth hover effect */
+}
+
+.whatsapp-pill-button:hover {
+    background-color: #1EBE5D; /* Darker green on hover */
+    transform: scale(1.1); /* Slight zoom on hover */
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+.whatsapp-icon {
+    width: 32px; /* Icon size for better visibility */
+    height: 32px;
+    margin-right:10px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Adds spacing between the icons */
+}
+.google-form-button {
+    display: inline-flex; /* Ensures the button aligns properly */
+    align-items: center;
+    justify-content: center;
+    gap: 8px; /* Adds spacing between any icon and text */
+    background-color: #4285F4; /* Google blue color */
+    color: white; /* Text color */
+    padding: 12px 20px; /* Adds padding for a comfortable clickable area */
+    border-radius: 30px; /* Rounded edges for a pill-like design */
+    font-size: 16px; /* Adjust font size */
+    font-family: 'Poppins', sans-serif; /* Modern font */
+    font-weight: 500; /* Slightly bold text */
+    text-decoration: none; /* Removes underline for links */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+    transition: transform 0.2s, background-color 0.3s, box-shadow 0.3s; /* Smooth hover effects */
+}
+
+.google-form-button:hover {
+    background-color: #3367D6; /* Darker shade of Google blue */
+    transform: scale(1.05); /* Slight zoom on hover */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* More pronounced shadow */
+}
+
+.google-form-button:active {
+    transform: scale(0.95); /* Button presses down on click */
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); /* Subtle pressed shadow */
 }
 
 /* Fade-in animation for the popup */
