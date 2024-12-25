@@ -7293,7 +7293,7 @@ const Pf = "./unique-empanada-0b73ee.netlify.app/assets/lakshya_event-vmake-BbBH
                 }),
                 s.jsx("div", {
                     className: "text-lg text-center font-poppins",
-                    children: "To offer world-class job-oriented courses with an ethical focus, for the benefit of all stakeholders.",
+                    children: "To become one of the most trusted and preferred business schools in India by aspiring management graduates with the ethics, ethos and value system.",
                 }),
             ],
         }),
@@ -7306,7 +7306,7 @@ const Pf = "./unique-empanada-0b73ee.netlify.app/assets/lakshya_event-vmake-BbBH
                 }),
                 s.jsx("div", {
                     className: "text-lg text-center font-poppins",
-                    children: "We commit ourselves to impart knowledge, skill and attitude to the students, to inculcate in them, a sense of discipline, with moral and ethical values, and to make them good citizens of India.",
+                    children: "To nurture the student learners to imbibe ethical standards in all aspects of learning and Practice. To facilitate the students in gaining knowledge, skills and developing positive attitude in their aproach to their Profession. To enable the students to become a socially responsible corporate citizen of this world.",
                 }),
             ],
         }),
@@ -7846,9 +7846,65 @@ s.jsxs("div", {
                 children: "Inspired by the principles of W. Edwards Deming, this forum equips members with the tools and techniques necessary to enhance operational efficiency, process optimization, and continuous improvement."
             }), s.jsx("p", {
                 children: " Participants gain a deeper understanding of quality consciousness, enabling them to implement best practices in production, logistics, and supply chain management."
-            })]
+            }),
+                s.jsxs("div", {
+    className: "map-container flex justify-center items-center my-4",
+    children: [
+        s.jsx("iframe", {
+            src: "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d125811.3147545546!2d78.01120417318083!3d9.799569731303976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m5!1s0x3b00d0be82a14d5f%3A0x71d33525eba17df2!2sSLCS%20(Subbalakshmi%20Lakshmipathy%20College%20of%20Science)%2C%20Srivaikundam%2C%20Tamil%20Nadu!3m2!1d9.799410499999999!2d78.093608!4m0!5e0!3m2!1sen!2sin!4v1734968110553!5m2!1sen!2sin",
+            width: "600",
+            height: "450",
+            style: { border: 0 },
+            allowFullScreen: true,
+            loading: "lazy",
+            referrerPolicy: "no-referrer-when-downgrade"
+        })
+    ]
+}),
+    s.jsx("a", {
+    href: "https://forms.gle/mBHFrGqzH7uMod5y8",
+   
+    rel: "noopener noreferrer",
+    className: "google-form-button flex items-center justify-center gap-2 rounded-full bg-blue-500 text-white px-4 py-2 shadow-md hover:bg-blue-600 hover:scale-105 transition-transform",
+    children: "Fill Google Form"}),
+    s.jsxs("div", {
+    className: "call-us-section mb-6",
+    children: [
+        s.jsx("h3", {
+            className: "call-us-title text-center text-lg font-semibold text-gray-700 mb-4",
+            children: "Call Us"
+        }),
+        s.jsxs("p", {
+            className: "call-us-numbers text-center text-gray-600 space-y-2",
+            children: [
+                s.jsx("span", { children: "Jeevan Karthick: 9865439102" }),
+                s.jsx("br", {}),
+                s.jsx("span", { children: "Nivas Krishnan: 9003968350" })
+            ]
+        })
+    ]
+}),
+s.jsx("a", {
+    href: "https://wa.me/9994931243",
+    target: "_blank",
+    rel: "noopener noreferrer",
+    className: "whatsapp-pill-button flex items-center justify-center gap-3 rounded-full bg-green-500 text-white px-6 py-3 shadow-lg hover:bg-green-600 hover:scale-105 transition-all",
+    children: [
+        s.jsx("img", {
+            src: "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+            alt: "WhatsApp Icon",
+            className: "whatsapp-icon w-8 h-8"
+        }),
+        "Whatsapp"
+    ]
+})
+
+    ]
+    
         })]
     });
+
+
 
 function Yf() {
     const [e, t] = q.useState(!1), n = () => {
@@ -7967,17 +8023,68 @@ function Yf() {
                     alt: "QR Code",
                     className: "mx-auto   mb-5 w-10 h-10 qr-image"
                 })]
-              
+    
             })
-        }), s.jsx("section", {
-            className: "bg-black text-white footer",
-            children: s.jsx("p", {
-                className: "py-5 text-center font-poppins",
-                children: "NIVAS@all rights reserved"
-            })
-        })]
+        }), s.jsxs("div", {
+    className: "follow-us-container flex flex-col items-center gap-4 my-4",
+    children: [
+        s.jsx("p", {
+            className: "text-xl font-bold text-center",
+            children: "Follow Us"
+        }),
+        s.jsxs("div", {
+            className: "social-icons flex justify-center gap-4",
+            children: [
+                s.jsx("a", {
+                    href: "https://www.facebook.com/RLIMS/",
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                    className: "text-blue-600 hover:text-blue-800 transition-colors",
+                    children: s.jsx("i", {
+                        className: "fab fa-facebook fa-2x" // Font Awesome Facebook Icon
+                    })
+                }),
+                s.jsx("a", {
+                    href: "https://www.instagram.com/athlon_2k24/?utm_source=qr&igsh=MWR5NG9qODQwYnZkaQ%3D%3D/",
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                    className: "text-pink-500 hover:text-pink-700 transition-colors",
+                    children: s.jsx("i", {
+                        className: "fab fa-instagram fa-2x" // Font Awesome Instagram Icon
+                    })
+                }),
+                s.jsx("a", {
+                    href: "https://www.linkedin.com/company/r-l-institute-of-management-studies-madurai/",
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                    className: "text-blue-700 hover:text-blue-900 transition-colors",
+                    children: s.jsx("i", {
+                        className: "fab fa-linkedin fa-2x" // Font Awesome LinkedIn Icon
+                    })
+                }),
+                s.jsx("a", {
+                    href: "https://www.youtube.com/@rlims-madurai",
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                    className: "text-red-600 hover:text-red-800 transition-colors",
+                    children: s.jsx("i", {
+                        className: "fab fa-youtube fa-2x" // Font Awesome YouTube Icon
+                    })
+                })
+            ]
+        })
+    ]
+}),
+s.jsx("section", {
+    className: "bg-black text-white footer",
+    children: s.jsx("p", {
+        className: "py-5 text-center font-poppins",
+        children: "APEX'25 | R L INSTITUTE OF MANAGEMENT STUDIES | Copyright © Rlims - MBA Students Association. All Rights Reserved."
     })
-}
+})]
+})
+    }
+
 
 tc(document.getElementById("root")).render(s.jsx(q.StrictMode, {
     children: s.jsx(Yf, {})
