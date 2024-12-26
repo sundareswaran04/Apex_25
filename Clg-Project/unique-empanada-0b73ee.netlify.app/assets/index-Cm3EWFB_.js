@@ -7230,55 +7230,10 @@ const Pf = "./unique-empanada-0b73ee.netlify.app/assets/lakshya_event-vmake-BbBH
         children: [s.jsx("section", {
             className: "relative w-full",
             children: s.jsx("img", {
-                src: "https://www.svgrepo.com/show/285729/award-champion.svg",
+                src: "./unique-empanada-0b73ee.netlify.app/assets/Apex'25.jpg",
                 alt: "",
-                className: "w-[100px] md:w-[200px] z-[-1] left-1/2 -translate-x-1/2 absolute"
-            })
-        }), s.jsxs("section", {
-            className: "py-20 backdrop-blur-[1px] z-[1]",
-            children: [s.jsxs("div", {
-                className: "flex justify-center",
-                children: [s.jsxs("div", {
-                    className: "star-div flex pr-5",
-                    children: [s.jsx("img", {
-                        src: "https://www.svgrepo.com/show/315891/star-gold-orange.svg",
-                        className: "w-[20px] md:w-[30px]",
-                        alt: ""
-                    }), s.jsx("img", {
-                        src: "https://www.svgrepo.com/show/315891/star-gold-orange.svg",
-                        className: "w-[20px] md:w-[30px]",
-                        alt: ""
-                    }), s.jsx("img", {
-                        src: "https://www.svgrepo.com/show/315891/star-gold-orange.svg",
-                        className: "w-[20px] md:w-[30px]",
-                        alt: ""
-                    })]
-                }), s.jsx("span", {
-                    className: "text-center font-apexFont text-3xl md:text-6xl",
-                    children: "APEX'"
-                }), s.jsx("span", {
-                    className: "font-apexFont md:text-6xl text-3xl text-apexGold",
-                    children: "25"
-                }), s.jsxs("div", {
-                    className: "star-div flex pl-5",
-                    children: [s.jsx("img", {
-                        src: "https://www.svgrepo.com/show/315891/star-gold-orange.svg",
-                        className: "w-[20px] md:w-[30px]",
-                        alt: ""
-                    }), s.jsx("img", {
-                        src: "https://www.svgrepo.com/show/315891/star-gold-orange.svg",
-                        className: "w-[20px] md:w-[30px]",
-                        alt: ""
-                    }), s.jsx("img", {
-                        src: "https://www.svgrepo.com/show/315891/star-gold-orange.svg",
-                        className: "w-[20px] md:w-[30px]",
-                        alt: ""
-                    })]
-                })]
-            }), s.jsx("p", {
-                className: "text-center text-lg font-poppins",
-                children: "Leading the way!"
-            })]
+                className: "mx-auto w-[400px] md:w-[500px] object-contain"
+            }),
         }),
 
        s.jsxs("div", {
@@ -7338,7 +7293,7 @@ const Pf = "./unique-empanada-0b73ee.netlify.app/assets/lakshya_event-vmake-BbBH
         }),
     ],
 })
-]
+    ]
     }),
     
     Ff = "./unique-empanada-0b73ee.netlify.app/assets/hackathon-DPuyM7Mt.jpg",
@@ -7838,70 +7793,68 @@ s.jsxs("div", {
             alt: "",
             className: "clgLogo md:absolute w-[100px] top-0  mx-auto "
         }), s.jsxs("div", {
-            className: " text-lg font-poppins  justify-center flex md:justify-start flex-col gap-2 ",
-            children: [s.jsx("p", {
-                className: "",
-                children: "It is dedicated to fostering excellence in operations and quality management."
-            }), s.jsx("p", {
-                children: "Inspired by the principles of W. Edwards Deming, this forum equips members with the tools and techniques necessary to enhance operational efficiency, process optimization, and continuous improvement."
-            }), s.jsx("p", {
-                children: " Participants gain a deeper understanding of quality consciousness, enabling them to implement best practices in production, logistics, and supply chain management."
-            }),
-                s.jsxs("div", {
-    className: "map-container flex justify-center items-center my-4",
-    children: [
+  className: "text-lg font-poppins justify-center flex md:justify-start flex-col gap-6",
+  children: [
+    s.jsx("p", {
+      className: "about-lakshya-text text-lefft font-semibold text-xl text-gray-800",
+      children: "It is dedicated to fostering excellence in operations and quality management.Inspired by the principles of W. Edwards Deming, this forum equips members with the tools and techniques necessary to enhance operational efficiency, process optimization, and continuous improvement.Participants gain a deeper understanding of quality consciousness, enabling them to implement best practices in production, logistics, and supply chain management.",
+    }),   
+     s.jsxs("div", {
+      className: "map-container flex justify-center items-center my-4",
+      children: [
         s.jsx("iframe", {
-            src: "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d125811.3147545546!2d78.01120417318083!3d9.799569731303976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m5!1s0x3b00d0be82a14d5f%3A0x71d33525eba17df2!2sSLCS%20(Subbalakshmi%20Lakshmipathy%20College%20of%20Science)%2C%20Srivaikundam%2C%20Tamil%20Nadu!3m2!1d9.799410499999999!2d78.093608!4m0!5e0!3m2!1sen!2sin!4v1734968110553!5m2!1sen!2sin",
-            width: "600",
-            height: "450",
-            style: { border: 0 },
-            allowFullScreen: true,
-            loading: "lazy",
-            referrerPolicy: "no-referrer-when-downgrade"
-        })
-    ]
-}),
-    s.jsx("a", {
-    href: "https://forms.gle/mBHFrGqzH7uMod5y8",
-   
-    rel: "noopener noreferrer",
-    className: "google-form-button flex items-center justify-center gap-2 rounded-full bg-blue-500 text-white px-4 py-2 shadow-md hover:bg-blue-600 hover:scale-105 transition-transform",
-    children: "Fill Google Form"}),
+          src: "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d125811.3147545546!2d78.01120417318083!3d9.799569731303976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m5!1s0x3b00d0be82a14d5f%3A0x71d33525eba17df2!2sSLCS%20(Subbalakshmi%20Lakshmipathy%20College%20of%20Science)%2C%20Srivaikundam%2C%20Tamil%20Nadu!3m2!1d9.799410499999999!2d78.093608!4m0!5e0!3m2!1sen!2sin!4v1734968110553!5m2!1sen!2sin",
+          width: "600",
+          height: "450",
+          style: { border: 0 },
+          allowFullScreen: true,
+          loading: "lazy",
+          referrerPolicy: "no-referrer-when-downgrade",
+        }),
+      ],
+    }),
+s.jsx("a", {
+      href: "https://forms.gle/mBHFrGqzH7uMod5y8",
+      rel: "noopener noreferrer",
+      className:
+        "google-form-button flex items-center justify-center gap-2 rounded-full bg-blue-500 text-white px-4 py-2 shadow-md hover:bg-blue-600 hover:scale-105 transition-transform",
+      children: "Fill Registration Form",
+    }),
+
     s.jsxs("div", {
-    className: "call-us-section mb-6",
-    children: [
+      className: "call-us-section mb-6",
+      children: [
         s.jsx("h3", {
-            className: "call-us-title text-center text-lg font-semibold text-gray-700 mb-4",
-            children: "Call Us"
+          className: "call-us-title text-center text-lg font-semibold text-gray-700 mb-4",
+          children: "Call Us",
         }),
         s.jsxs("p", {
-            className: "call-us-numbers text-center text-gray-600 space-y-2",
-            children: [
-                s.jsx("span", { children: "Jeevan Karthick: 9865439102" }),
-                s.jsx("br", {}),
-                s.jsx("span", { children: "Nivas Krishnan: 9003968350" })
-            ]
-        })
-    ]
-}),
-s.jsx("a", {
-    href: "https://wa.me/+91 9994931243",
-    target: "_blank",
-    rel: "noopener noreferrer",
-    className: "whatsapp-pill-button flex items-center justify-center gap-3 rounded-full bg-green-500 text-white px-6 py-3 shadow-lg hover:bg-green-600 hover:scale-105 transition-all",
-    children: [
-        s.jsx("img", {
-            src: "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
-            alt: "WhatsApp Icon",
-            className: "whatsapp-icon w-8 h-8"
+          className: "call-us-numbers text-center text-gray-600 space-y-2",
+          children: [
+            s.jsx("span", { children: "Jeevan Karthick: 9865439102" }),
+            s.jsx("br", {}),
+            s.jsx("span", { children: "Nivas Krishnan: 9003968350" }),
+          ],
         }),
-        "Whatsapp"
-    ]
-})
-
-    ]
-    
-        })]
+      ],
+    }),
+    s.jsx("a", {
+      href: "https://wa.me/+91 9994931243",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      className:
+        "whatsapp-pill-button flex items-center justify-center gap-3 rounded-full bg-green-500 text-white px-6 py-3 shadow-lg hover:bg-green-600 hover:scale-105 transition-all",
+      children: [
+        s.jsx("img", {
+          src: "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+          alt: "WhatsApp Icon",
+          className: "whatsapp-icon w-8 h-8",
+        }),
+        "Whatsapp",
+      ],
+    }),
+  ],
+})]
     });
 
 
