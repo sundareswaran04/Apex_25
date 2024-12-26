@@ -1230,15 +1230,30 @@ body::-webkit-scrollbar {
     background-color: #25D366; /* WhatsApp green color */
     border-radius: 30px; /* Full-rounded edges for pill shape */
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* Adds depth */
+
     transition: all 0.3s ease-in-out; /* Smooth hover effect */
 }
-
+.google-form-button{
+    width:400px;
+    align-self:center;
+    margin-top:20px;
+}
+.qr-text{
+    font-weight:bolder;
+    font-size:22px;
+    color:black;
+    margin-top:20px;
+    margin-bottom:10px;
+}
 .whatsapp-pill-button:hover {
     background-color: #1EBE5D; /* Darker green on hover */
     transform: scale(1.1); /* Slight zoom on hover */
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
 }
-
+.about-lakshya-text{
+    text-align:center;
+    margin-bottom:20px;
+}
 .whatsapp-icon {
     width: 32px; /* Icon size for better visibility */
     height: 32px;
