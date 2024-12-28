@@ -7972,7 +7972,7 @@ function Yf() {
                     className: "text-3xl font-bold mb-5",
                     children: "Make a Payment"
                 }), s.jsx("img", {
-                    src: "./unique-empanada-0b73ee.netlify.app/assets/QRcode.jpg",
+                    src: "./unique-empanada-0b73ee.netlify.app/assets/QRcode.png",
                     alt: "QR Code",
                     className: "mx-auto   mb-5 w-10 h-10 qr-image"
                 })]
